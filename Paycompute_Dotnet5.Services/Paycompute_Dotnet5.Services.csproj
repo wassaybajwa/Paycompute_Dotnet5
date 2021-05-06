@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Paycompute_Dotnet5.Entity\Paycompute_Dotnet5.Entity.csproj" />
+    <ProjectReference Include="..\Paycompute_Dotnet5.Persistence\Paycompute_Dotnet5.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

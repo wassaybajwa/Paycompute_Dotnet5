@@ -1,0 +1,12 @@
+C:\Users\wassa\OneDrive\C-Sharp-Console\Paycompute_Dotnet5\Paycompute_Dotnet5.Entity\bin\Debug\net5.0\Paycompute_Dotnet5.Entity.deps.json
+C:\Users\wassa\OneDrive\C-Sharp-Console\Paycompute_Dotnet5\Paycompute_Dotnet5.Entity\bin\Debug\net5.0\Paycompute_Dotnet5.Entity.dll
+C:\Users\wassa\OneDrive\C-Sharp-Console\Paycompute_Dotnet5\Paycompute_Dotnet5.Entity\bin\Debug\net5.0\ref\Paycompute_Dotnet5.Entity.dll
+C:\Users\wassa\OneDrive\C-Sharp-Console\Paycompute_Dotnet5\Paycompute_Dotnet5.Entity\bin\Debug\net5.0\Paycompute_Dotnet5.Entity.pdb
+C:\Users\wassa\OneDrive\C-Sharp-Console\Paycompute_Dotnet5\Paycompute_Dotnet5.Entity\obj\Debug\net5.0\Paycompute_Dotnet5.Entity.csprojAssemblyReference.cache
+C:\Users\wassa\OneDrive\C-Sharp-Console\Paycompute_Dotnet5\Paycompute_Dotnet5.Entity\obj\Debug\net5.0\Paycompute_Dotnet5.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassa\OneDrive\C-Sharp-Console\Paycompute_Dotnet5\Paycompute_Dotnet5.Entity\obj\Debug\net5.0\Paycompute_Dotnet5.Entity.AssemblyInfoInputs.cache
+C:\Users\wassa\OneDrive\C-Sharp-Console\Paycompute_Dotnet5\Paycompute_Dotnet5.Entity\obj\Debug\net5.0\Paycompute_Dotnet5.Entity.AssemblyInfo.cs
+C:\Users\wassa\OneDrive\C-Sharp-Console\Paycompute_Dotnet5\Paycompute_Dotnet5.Entity\obj\Debug\net5.0\Paycompute_Dotnet5.Entity.csproj.CoreCompileInputs.cache
+C:\Users\wassa\OneDrive\C-Sharp-Console\Paycompute_Dotnet5\Paycompute_Dotnet5.Entity\obj\Debug\net5.0\Paycompute_Dotnet5.Entity.dll
+C:\Users\wassa\OneDrive\C-Sharp-Console\Paycompute_Dotnet5\Paycompute_Dotnet5.Entity\obj\Debug\net5.0\ref\Paycompute_Dotnet5.Entity.dll
+C:\Users\wassa\OneDrive\C-Sharp-Console\Paycompute_Dotnet5\Paycompute_Dotnet5.Entity\obj\Debug\net5.0\Paycompute_Dotnet5.Entity.pdb
